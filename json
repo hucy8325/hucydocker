@@ -1,0 +1,14 @@
+ "accelerometer": {
+        "range": "±16g",
+        "resolution": "16-bit",
+        "sampling_rate": "200Hz"
+      },
+      "gyroscope": {
+        "range": "±2000°/s",
+        "resolution": "16-bit",
+        "sampling_rate": "200Hz"
+      },
+      "sync": {
+        "enable_hardware_sync": true,
+        "sync_pulse_frequency": "10Hz"
+      }
